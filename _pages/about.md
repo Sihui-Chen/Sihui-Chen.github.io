@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Sihui Chen"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About
 I am Sihui Chen (陈思慧). My English name is Cathy. I am currently a master's student at the Southern University of Science and Technology. My current research topic is battery lifetime prediction. I am interested in AI for science, and I have been doing it.
 
 ## Research Interest
