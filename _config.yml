@@ -21,7 +21,7 @@ repository               : "Sihui-Chen/Sihui-Chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./images/2050.png"
   name             : "Sihui Chen"
   pronouns         : # example: "she/her"  
   bio              : "I am interested in AI for science"
